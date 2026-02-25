@@ -1,5 +1,7 @@
 # RBLX_SCRIPTS - Newest and main REPO.
 
+
+```lua
 --[[
       _             _ _                     
      (_)           (_) |                    
@@ -12,7 +14,7 @@
 
         ▒▒▒▓▓▓█ Sinitzyn Development █▓▓▓▒▒▒
 ]]
-
+```
 ## 📝 Terms of Use & Protection
 This repository contains **obfuscated scripts** developed by **Sinitzyn**. By using these scripts, you acknowledge and agree to the following terms:
 
